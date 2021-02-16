@@ -1,2 +1,3 @@
 # The-Sparks-Foundation
-Prediction using Supervised ML  (Level - Beginner)  #GRIPFEB21
+Prediction using Supervised ML
+(Level - Beginner)  #GRIPFEB21
